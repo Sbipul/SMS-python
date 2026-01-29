@@ -2,7 +2,7 @@ from database import Database
 from request import Request
 from helper import Helper
 
-print("Welcome to the Student Record Management System!")
+print("\n\nWelcome to the Student Record Management System!")
 Database.connect_database()
 
 
