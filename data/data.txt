@@ -1,5 +1,4 @@
-2,Snigdha Roy,1145826,snigdharoy@gmail.com,TexEng
 3,Topa Roy,1542862,topa@gmail.com,UIUX
-
 4,Bipul Chandro Roy,1146104,bipul@gmail.com,CSE
 5,Joyanto,1512548,joyanto@gmail.com,Frontend
+6,Mehedi hasan shuvo,1458216,shuvo@gmail.com,CS

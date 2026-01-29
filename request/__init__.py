@@ -29,6 +29,7 @@ class Request:
 
         return all_students
 
+
     @staticmethod
     def add_student(student):
         all_students = Request.get_student()
@@ -53,6 +54,8 @@ class Request:
         except FileNotFoundError:
             print("File not found")
     
+
+
     @staticmethod
     def delete_student(roll):
         all_students = Request.get_student()
@@ -68,6 +71,8 @@ class Request:
                 print("File not found")
         else:
             print("No student found")
+
+    
 
     
     @staticmethod
