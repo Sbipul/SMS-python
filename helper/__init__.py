@@ -1,5 +1,5 @@
 from student import Student
-
+from validation import Validation
 
 class Helper:
     @staticmethod
@@ -17,10 +17,11 @@ class Helper:
             print(f"{'Roll':<12} : {st["roll"]}")
             print(f"{'Email':<12} : {st["email"]}")
             print(f"{'Department':<12} : {st["department"]}\n\n")
+            
     @staticmethod
     def get_student_info():
-        name = input("Enter Student Name : ")
-        roll = input("Enter Student Roll : ")
-        email = input("Enter Student Email : ")
-        department = input("Enter Student Department : ")
+        name = Validation.get_valid_name()
+        roll = Validation.get_valid_roll()
+        email = Validation.get_valid_email()
+        department = Validation.get_valid_department()
         return Student(name, roll, email, department)

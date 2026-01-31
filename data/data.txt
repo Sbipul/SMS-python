@@ -1,4 +1,3 @@
-3,Topa Roy,1542862,topa@gmail.com,UIUX
-4,Bipul Chandro Roy,1146104,bipul@gmail.com,CSE
-5,Joyanto,1512548,joyanto@gmail.com,Frontend
-6,Mehedi hasan shuvo,1458216,shuvo@gmail.com,CS
+1,Bipul Chandro Roy,1146104,bipul@gmail.com,CSE
+2,Mehedi hasan shuvo,1458216,shuvo@gmail.com,CS
+3,Jannatul Ferdaus,1254684,khajidatulferdaus@gmail.com,CSE
